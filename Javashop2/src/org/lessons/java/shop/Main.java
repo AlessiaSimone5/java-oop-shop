@@ -7,6 +7,8 @@ public class Main {
 		
 		Prodotto p = new Prodotto("Vaso","vaso di ceramica", 13.50f, 22);
 		
+		System.out.println(p.getCodiceProdotto());
+		
 
 	}
 
